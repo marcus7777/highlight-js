@@ -1,0 +1,13 @@
+{
+  "name": "highlight-js",
+  "version": "1.0.0",
+  "description": "Wrapper highlight.js",
+  "main": "highlight-js.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "highlight.js": "isagalaev/highlight.js"
+  }
+}
